@@ -1,6 +1,6 @@
 # Repository for AGEC 652 - Application of Quantitative Analysis: Mathematical Programming, Spring 2022
 ### Department of Agricultural Economics, Purdue University
-### Instructor: Diego S. Cardoso
+### Instructor: Diego S. Cardoso (cardosod at purdue.edu)
 
 ### License
 
